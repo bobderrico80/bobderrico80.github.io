@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bingo/static/css/main.e6e4fdd0.chunk.css",
+    "main.js": "/bingo/static/js/main.318b34a9.chunk.js",
+    "main.js.map": "/bingo/static/js/main.318b34a9.chunk.js.map",
+    "runtime-main.js": "/bingo/static/js/runtime-main.a536a95e.js",
+    "runtime-main.js.map": "/bingo/static/js/runtime-main.a536a95e.js.map",
+    "static/js/2.5c69636e.chunk.js": "/bingo/static/js/2.5c69636e.chunk.js",
+    "static/js/2.5c69636e.chunk.js.map": "/bingo/static/js/2.5c69636e.chunk.js.map",
+    "index.html": "/bingo/index.html",
+    "precache-manifest.94aa67ac4bb6f762fa1535c187a054d5.js": "/bingo/precache-manifest.94aa67ac4bb6f762fa1535c187a054d5.js",
+    "service-worker.js": "/bingo/service-worker.js",
+    "static/css/main.e6e4fdd0.chunk.css.map": "/bingo/static/css/main.e6e4fdd0.chunk.css.map",
+    "static/js/2.5c69636e.chunk.js.LICENSE.txt": "/bingo/static/js/2.5c69636e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bingo/static/media/pride-bg.e72962be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a536a95e.js",
+    "static/js/2.5c69636e.chunk.js",
+    "static/css/main.e6e4fdd0.chunk.css",
+    "static/js/main.318b34a9.chunk.js"
+  ]
+}
